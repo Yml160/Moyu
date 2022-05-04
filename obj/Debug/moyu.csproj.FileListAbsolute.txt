@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\moyu\obj\Debug\moyu.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\moyu\obj\Debug\moyu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\moyu\bin\Debug\moyu.exe.config
+C:\Users\Administrator\Desktop\moyu\bin\Debug\moyu.exe
+C:\Users\Administrator\Desktop\moyu\bin\Debug\moyu.pdb
+C:\Users\Administrator\Desktop\moyu\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Administrator\Desktop\moyu\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Administrator\Desktop\moyu\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Administrator\Desktop\moyu\obj\Debug\moyu.csproj.CopyComplete
+C:\Users\Administrator\Desktop\moyu\obj\Debug\moyu.exe
+C:\Users\Administrator\Desktop\moyu\obj\Debug\moyu.pdb

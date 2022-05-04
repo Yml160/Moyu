@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="moyu.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ReadBookName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ReadHistoryRow" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.xbiquge.la/modules/article/waps.php?searchkey=</Value>
+    </Setting>
+    <Setting Name="HOST_URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)"> https://www.xbiquge.la</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
